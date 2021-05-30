@@ -11,9 +11,14 @@ O Core: Usuários, em nome de participanes com contas, movimentam um livro de tr
 
 O sistema de partidas dobradas e a rede simulada de Block-Chain estão em Python.
 
-A vizualização no metabase (tentar criar link dentro de um Vue.JS)
+DB-Postgres com possibilidade de campos com JSON.
 
-O 2.0 Seria um back-end das partidas dobradas em Clujure com uma smart ledger.
+A vizualização no Metabase
+
+O 2.0 Seria um back-end das partidas dobradas em Clujure com uma smart ledger
+
+e o front vue.js e gráficos com d3.
+.
 
 Direito das obrigações é a parte do Direito Civil que estuda os vínculos jurídicos criados entre pessoas em que o patrimônio do devedor poderá responder pelo seu inadimplemento. Tem sua previsão no Código Civil. Artigos 233 e 420 do CC.
 
@@ -21,6 +26,7 @@ Direito das obrigações é a parte do Direito Civil que estuda os vínculos jur
 ## Direitos = Responsabilidades + Obrigações
                 ou
 ## Ativo = Passivo + Partrimonio Liquido
+
 
 
 Explicar.....
